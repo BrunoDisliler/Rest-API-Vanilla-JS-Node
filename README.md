@@ -2,15 +2,17 @@
 
 ## Full CRUD REST API using Node.js with no framework
 
-#### Routes
+### Routes
 
-GET /api/products
-POST /api/products
-GET /api/products/:id
-PUT /api/products/:id
-DELETE /api/products/:id
+<ul>
+  <li>GET /api/products</li>
+  <li>POST /api/products</li>
+  <li>GET /api/products/:id</li>
+  <li>PUT /api/products/:id</li>
+  <li>DELETE /api/products/:id></li>
+</ul>
 
-Usage
+### Usage
 
 #### Install dependencies
 
